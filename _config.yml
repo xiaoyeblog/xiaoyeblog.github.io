@@ -16,7 +16,7 @@
 title: 小野blog
 email: jiangsir_sub@163.com
 description: > # this means to ignore newlines until "baseurl:"
-  欢迎来到小野blog，这是一个技术博客，主要用于记录自己的技术成长历程。博客内容包括但不限于包括技术文章，学习心得，杂记等。希望通过这个博客
+  欢迎来到小野blog，这是一个技术博客，主要用于记录自己的技术成长历程。博客内容包括但不限于技术文章，学习心得，杂记等。希望通过这个博客
   ，鼓励自己不断的学习和进步，并且能够得到各位大牛的批评指点，能够对热爱编程的朋友们有所帮助。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

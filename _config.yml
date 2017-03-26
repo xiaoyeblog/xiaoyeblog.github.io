@@ -20,6 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   ，鼓励自己不断的学习和进步，并且能够得到各位大牛的批评指点，能够对热爱编程的朋友们有所帮助。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+excerpt_separator: <!--more-->
 #twitter_username: jekyllrb
 github_username: xiaoyeblog 
 #serving

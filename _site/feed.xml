@@ -1,5 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-02-18T17:25:08+08:00</updated><id>/feed.xml</id><title type="html">小野blog</title><subtitle>欢迎来到小野blog，这是一个技术博客，主要用于记录自己的技术成长历程。博客内容包括但不限于技术文章，学习心得，杂记等。希望通过这个博客 ，鼓励自己不断的学习和进步，并且能够得到各位大牛的批评指点，能够对热爱编程的朋友们有所帮助。
-</subtitle><entry><title type="html">Support NexChatGPT IDEA plugin</title><link href="/nexchatgpt/2023/02/16/donate.html" rel="alternate" type="text/html" title="Support NexChatGPT IDEA plugin" /><published>2023-02-16T00:00:00+08:00</published><updated>2023-02-16T00:00:00+08:00</updated><id>/nexchatgpt/2023/02/16/donate</id><content type="html" xml:base="/nexchatgpt/2023/02/16/donate.html"><![CDATA[<h3 id="buy-author-a-cup-of-coffee">Buy author a cup of coffee.</h3>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-02-19T17:00:47+08:00</updated><id>/feed.xml</id><title type="html">小野blog</title><subtitle>欢迎来到小野blog，这是一个技术博客，主要用于记录自己的技术成长历程。博客内容包括但不限于技术文章，学习心得，杂记等。希望通过这个博客 ，鼓励自己不断的学习和进步，并且能够得到各位大牛的批评指点，能够对热爱编程的朋友们有所帮助。
+</subtitle><entry><title type="html">NexChatGPT 插件使用教程</title><link href="/nexchatgpt/2023/02/19/quick-start.html" rel="alternate" type="text/html" title="NexChatGPT 插件使用教程" /><published>2023-02-19T00:00:00+08:00</published><updated>2023-02-19T00:00:00+08:00</updated><id>/nexchatgpt/2023/02/19/quick-start</id><content type="html" xml:base="/nexchatgpt/2023/02/19/quick-start.html"><![CDATA[<h2 id="1安装">1、安装</h2>
+<p>在插件市场中搜索“NexChatGPT”，大小写无所谓，点击安装。
+<img src="/images/install.png" alt="Alt text" /><br />
+<!--more--></p>
+<h2 id="2插件入口">2、插件入口</h2>
+<p>安装后会在工具栏（tool window）出现NexChatGPT
+<img src="/images/toolwindow.png" alt="Alt text" /></p>
+<h2 id="3使用">3、使用</h2>
+<p>在输入框输入你想提问的问题，点击send按钮，等待答案。
+<img src="/images/ask.gif" alt="Alt text" /></p>]]></content><author><name></name></author><category term="NexChatGPT" /><category term="NexChatGPT" /><summary type="html"><![CDATA[1、安装 在插件市场中搜索“NexChatGPT”，大小写无所谓，点击安装。]]></summary></entry><entry><title type="html">Support NexChatGPT IDEA plugin</title><link href="/nexchatgpt/2023/02/16/donate.html" rel="alternate" type="text/html" title="Support NexChatGPT IDEA plugin" /><published>2023-02-16T00:00:00+08:00</published><updated>2023-02-16T00:00:00+08:00</updated><id>/nexchatgpt/2023/02/16/donate</id><content type="html" xml:base="/nexchatgpt/2023/02/16/donate.html"><![CDATA[<h3 id="buy-author-a-cup-of-coffee">Buy author a cup of coffee.</h3>
 
 <p>The login-free ChatGPT plugin needs to <strong>consume a large number of OpenAI accounts and quota</strong>. The author currently pays for it out of his own pocket. The author is currently using his spare time to fully perform functional iterations and maintain the stable operation of the service.</p>
 

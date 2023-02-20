@@ -1,21 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-02-19T17:00:47+08:00</updated><id>/feed.xml</id><title type="html">小野blog</title><subtitle>欢迎来到小野blog，这是一个技术博客，主要用于记录自己的技术成长历程。博客内容包括但不限于技术文章，学习心得，杂记等。希望通过这个博客 ，鼓励自己不断的学习和进步，并且能够得到各位大牛的批评指点，能够对热爱编程的朋友们有所帮助。
-</subtitle><entry><title type="html">NexChatGPT 插件使用教程</title><link href="/nexchatgpt/2023/02/19/quick-start.html" rel="alternate" type="text/html" title="NexChatGPT 插件使用教程" /><published>2023-02-19T00:00:00+08:00</published><updated>2023-02-19T00:00:00+08:00</updated><id>/nexchatgpt/2023/02/19/quick-start</id><content type="html" xml:base="/nexchatgpt/2023/02/19/quick-start.html"><![CDATA[<h2 id="1安装">1、安装</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-02-20T18:58:21+08:00</updated><id>/feed.xml</id><title type="html">小野blog</title><subtitle>欢迎来到小野blog，这是一个技术博客，主要用于记录自己的技术成长历程。博客内容包括但不限于技术文章，学习心得，杂记等。希望通过这个博客 ，鼓励自己不断的学习和进步，并且能够得到各位大牛的批评指点，能够对热爱编程的朋友们有所帮助。
+</subtitle><entry><title type="html">NexChatGPT 插件使用教程</title><link href="/nexchatgpt/2023/02/19/quick-start.html" rel="alternate" type="text/html" title="NexChatGPT 插件使用教程" /><published>2023-02-19T00:00:00+08:00</published><updated>2023-02-19T00:00:00+08:00</updated><id>/nexchatgpt/2023/02/19/quick-start</id><content type="html" xml:base="/nexchatgpt/2023/02/19/quick-start.html"><![CDATA[<video width="640" height="480" controls="">
+  <source src="https://static.5yoo.com/files/video/nexchatgpt.mp4" type="video/mp4" />
+</video>
+<!--more-->
+<h2 id="1安装">1、安装</h2>
 <p>在插件市场中搜索“NexChatGPT”，大小写无所谓，点击安装。
-<img src="/images/install.png" alt="Alt text" /><br />
-<!--more--></p>
+<img src="/images/install.png" alt="Alt text" /></p>
+
 <h2 id="2插件入口">2、插件入口</h2>
 <p>安装后会在工具栏（tool window）出现NexChatGPT
 <img src="/images/toolwindow.png" alt="Alt text" /></p>
 <h2 id="3使用">3、使用</h2>
 <p>在输入框输入你想提问的问题，点击send按钮，等待答案。
-<img src="/images/ask.gif" alt="Alt text" /></p>]]></content><author><name></name></author><category term="NexChatGPT" /><category term="NexChatGPT" /><summary type="html"><![CDATA[1、安装 在插件市场中搜索“NexChatGPT”，大小写无所谓，点击安装。]]></summary></entry><entry><title type="html">Support NexChatGPT IDEA plugin</title><link href="/nexchatgpt/2023/02/16/donate.html" rel="alternate" type="text/html" title="Support NexChatGPT IDEA plugin" /><published>2023-02-16T00:00:00+08:00</published><updated>2023-02-16T00:00:00+08:00</updated><id>/nexchatgpt/2023/02/16/donate</id><content type="html" xml:base="/nexchatgpt/2023/02/16/donate.html"><![CDATA[<h3 id="buy-author-a-cup-of-coffee">Buy author a cup of coffee.</h3>
+<img src="/images/ask.gif" alt="Alt text" /></p>]]></content><author><name></name></author><category term="NexChatGPT" /><category term="NexChatGPT" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Support NexChatGPT IDEA plugin</title><link href="/nexchatgpt/2023/02/16/donate.html" rel="alternate" type="text/html" title="Support NexChatGPT IDEA plugin" /><published>2023-02-16T00:00:00+08:00</published><updated>2023-02-16T00:00:00+08:00</updated><id>/nexchatgpt/2023/02/16/donate</id><content type="html" xml:base="/nexchatgpt/2023/02/16/donate.html"><![CDATA[<h3 id="buy-author-a-cup-of-coffee">Buy author a cup of coffee.</h3>
 
-<p>The login-free ChatGPT plugin needs to <strong>consume a large number of OpenAI accounts and quota</strong>. The author currently pays for it out of his own pocket. The author is currently using his spare time to fully perform functional iterations and maintain the stable operation of the service.</p>
+<p>The login-free ChatGPT plugin needs to <strong>consume a large number of OpenAI accounts and quota</strong>. The author is currently using his spare time to fully perform functional iterations and maintain the stable operation of the service.Your support is our greatest encouragement and makes this plugin live longer.</p>
 
 <p><a href="https://paypal.me/vqlai">Donate with PayPal</a>
-<!--more--></p>]]></content><author><name></name></author><category term="NexChatGPT" /><category term="NexChatGPT" /><summary type="html"><![CDATA[Buy author a cup of coffee. The login-free ChatGPT plugin needs to consume a large number of OpenAI accounts and quota. The author currently pays for it out of his own pocket. The author is currently using his spare time to fully perform functional iterations and maintain the stable operation of the service. Donate with PayPal]]></summary></entry><entry><title type="html">ChatGPT 微信群</title><link href="/nexchatgpt/2023/02/12/ChatGPT-wechat-group.html" rel="alternate" type="text/html" title="ChatGPT 微信群" /><published>2023-02-12T00:00:00+08:00</published><updated>2023-02-12T00:00:00+08:00</updated><id>/nexchatgpt/2023/02/12/ChatGPT-wechat-group</id><content type="html" xml:base="/nexchatgpt/2023/02/12/ChatGPT-wechat-group.html"><![CDATA[<p>欢迎加入微信群，体验ChatGPT。</p>
+<!--more--></p>
+
+<h3 id="请作者喝杯咖啡吧">请作者喝杯咖啡吧</h3>
+
+<p>免登陆的ChatGPT插件需要<strong>消耗大量的OpenAI账号及额度</strong>。插件作者利用业务时间尽全力的进行插件功能迭代和维护服务稳定，您的支持是对我们最大的鼓励，也可以让插件活的更长久。</p>
+
+<p><img src="/images/weChatDonate.jpeg" alt="Alt text" height="30%" width="30%" /></p>
+
+<p><img src="/images/alipayDonate.jpeg" alt="Alt text" height="30%" width="30%" /></p>]]></content><author><name></name></author><category term="NexChatGPT" /><category term="NexChatGPT" /><summary type="html"><![CDATA[Buy author a cup of coffee. The login-free ChatGPT plugin needs to consume a large number of OpenAI accounts and quota. The author is currently using his spare time to fully perform functional iterations and maintain the stable operation of the service.Your support is our greatest encouragement and makes this plugin live longer. Donate with PayPal]]></summary></entry><entry><title type="html">ChatGPT 微信群</title><link href="/nexchatgpt/2023/02/12/ChatGPT-wechat-group.html" rel="alternate" type="text/html" title="ChatGPT 微信群" /><published>2023-02-12T00:00:00+08:00</published><updated>2023-02-12T00:00:00+08:00</updated><id>/nexchatgpt/2023/02/12/ChatGPT-wechat-group</id><content type="html" xml:base="/nexchatgpt/2023/02/12/ChatGPT-wechat-group.html"><![CDATA[<p>欢迎加入微信群，体验ChatGPT。</p>
 <h2 id="微信群">微信群</h2>
-<p><img src="/images/weChatGroup.jpeg" alt="Alt text" height="30%" width="30%" /><br />
+<p><img src="https://sdm5945.github.io/WechatIMG.jpeg" alt="Alt text" height="30%" width="30%" /><br />
 <!--more--></p>
 
 <h2 id="注意">注意</h2>

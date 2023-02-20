@@ -7,7 +7,7 @@ tags: NexChatGPT
   
 欢迎加入微信群，体验ChatGPT。
 ## 微信群
-![Alt text](/images/weChatGroup.jpeg){:height="30%" width="30%"}  
+![Alt text](https://sdm5945.github.io/WechatIMG.jpeg){:height="30%" width="30%"}  
 <!--more-->
 
 ## 注意

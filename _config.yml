@@ -24,7 +24,7 @@ excerpt_separator: <!--more-->
 #twitter_username: jekyllrb
 github_username: xiaoyeblog 
 #serving
-host: 192.168.3.154 
+host: localhost 
 # Build settings
 markdown: kramdown
 theme: minima
